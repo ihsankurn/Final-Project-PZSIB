@@ -14,18 +14,27 @@ The project uses historical data and predictions from the following sources:
 
 Waste distribution data from the Indonesian waste sector (2019-2022).
 ° CO2 emissions data from various sectors (transportation, industry, agriculture, etc.).
+
 ° Predictive models from Looker Studio for CO2 consumption, cumulative growth, and savings from electric vehicles.
 
 ## Data Breakdown
 ### Waste Distribution by Type
 ° Food Waste: 40.47%
+
 ° Plastic: 17.79%
+
 ° Wood: 13.7%
+
 ° Cardboard: 11.89%
+
 ° Other: 6.7%
+
 ° Metal: 3.14%
+
 ° Fabric: 2.43%
+
 ° Glass: 2.14%
+
 ° Rubber: 1.74%
 
 ### CO2 Emissions from Transportation
